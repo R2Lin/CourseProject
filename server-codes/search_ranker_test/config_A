@@ -1,0 +1,5 @@
+prefix = "."
+stop-words = "stopwords.txt"
+
+corpus = "line.toml"
+index = "idx"
